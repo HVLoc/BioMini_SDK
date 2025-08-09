@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="/backup/works/urovo/task/works/fingerprint/BioMini_SDK_for_Android_V2.0.1_r2356/sample" />
+            <option value="/backup/works/urovo/task/works/fingerprint/BioMini_SDK_for_Android_V2.0.1_r2356/sample/biominisample" />
+            <option value="/backup/works/urovo/task/works/fingerprint/BioMini_SDK_for_Android_V2.0.1_r2356/sample/libBioMini_v20" />
+          </set>
+        </option>
+        <option name="resolveExternalAnnotations" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

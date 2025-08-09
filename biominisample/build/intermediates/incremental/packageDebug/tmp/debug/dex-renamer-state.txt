@@ -1,0 +1,4 @@
+#Wed Feb 20 14:00:42 CST 2019
+base.0=/backup/works/urovo/task/works/fingerprint/BioMini_SDK_for_Android_V2.0.1_r2356/sample/biominisample/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
