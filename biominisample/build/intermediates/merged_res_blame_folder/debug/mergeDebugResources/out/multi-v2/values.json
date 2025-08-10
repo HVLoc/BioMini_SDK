@@ -23,6 +23,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\hvllo\\.gradle\\caches\\transforms-4\\03b9e0f48ce9d38de4a3b9589c458971\\transformed\\jetified-activity-1.8.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,97",
+                        "endColumns": "41,59",
+                        "endOffsets": "92,152"
+                    },
+                    "to": {
+                        "startLines": "1776,1819",
+                        "startColumns": "4,4",
+                        "startOffsets": "119584,121762",
+                        "endColumns": "41,59",
+                        "endOffsets": "119621,121817"
+                    }
+                },
+                {
                     "source": "C:\\Users\\hvllo\\.gradle\\caches\\transforms-4\\19d09b9bec7b8adabc7ab541d1d3b0cd\\transformed\\recyclerview-1.3.2\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
@@ -42,22 +59,37 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\hvllo\\.gradle\\caches\\transforms-4\\40ec6c459784e10ba64e3ba1d061e76e\\transformed\\appcompat-resources-1.6.1\\res\\values\\values.xml",
+                    "source": "C:\\Users\\hvllo\\.gradle\\caches\\transforms-4\\330e2fcf40fd14c381607dad1493b14b\\transformed\\jetified-startup-runtime-1.1.1\\res\\values\\values.xml",
                     "from": {
-                        "startLines": "2,18,24,34,50",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "55,480,658,942,1353",
-                        "endLines": "17,23,33,49,53",
-                        "endColumns": "24,24,24,24,24",
-                        "endOffsets": "475,653,937,1348,1475"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "82",
+                        "endOffsets": "133"
                     },
                     "to": {
-                        "startLines": "9353,9369,9375,11963,11979",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "646399,646824,647002,759120,759531",
-                        "endLines": "9368,9374,9384,11978,11982",
-                        "endColumns": "24,24,24,24,24",
-                        "endOffsets": "646819,646997,647281,759526,759653"
+                        "startLines": "1924",
+                        "startColumns": "4",
+                        "startOffsets": "128801",
+                        "endColumns": "82",
+                        "endOffsets": "128879"
+                    }
+                },
+                {
+                    "source": "D:\\lochv\\Android project\\BioMini_SDK\\biominisample\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "11,6,1,20,19,23,22,9,8,35,57,58,29,28,49,48,40,39,46,45,43,42,13,4,3,37,52,51,17,14,15,16,10,26,25,32,33,31,55,54",
+                        "startColumns": "2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2",
+                        "startOffsets": "454,233,15,843,794,961,898,341,287,1434,2315,2375,1207,1156,1987,1924,1611,1556,1853,1788,1727,1672,511,156,83,1491,2117,2056,733,576,627,678,397,1090,1030,1311,1362,1264,2246,2183",
+                        "endColumns": "53,50,64,51,47,65,61,54,52,53,58,61,53,49,65,61,57,53,67,63,57,53,63,73,71,61,62,59,57,49,49,53,55,62,58,49,68,45,65,61",
+                        "endOffsets": "505,281,77,892,839,1024,957,393,337,1485,2371,2434,1258,1203,2050,1983,1666,1607,1918,1849,1782,1723,572,227,152,1550,2177,2113,788,623,674,729,450,1150,1086,1358,1428,1307,2309,2242"
+                    },
+                    "to": {
+                        "startLines": "1922,1923,1925,1940,1941,1942,1943,1944,1948,1950,1951,1952,1953,1954,1959,1960,1961,1962,1963,1964,1965,1966,1973,2080,2081,2082,2088,2089,2090,2091,2092,2093,2102,2103,2104,2106,2107,2108,2109,2110",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "128692,128748,128884,130695,130749,130799,130867,130931,131286,131420,131476,131537,131601,131657,131934,132002,132066,132126,132182,132252,132318,132378,133203,148782,148858,148932,149798,149863,149925,149985,150037,150089,151054,151112,151177,151309,151361,151432,151480,151548",
+                        "endColumns": "55,52,60,53,49,67,63,56,54,55,60,63,55,51,67,63,59,55,69,65,59,55,65,75,73,63,64,61,59,51,51,55,57,64,60,51,70,47,67,63",
+                        "endOffsets": "128743,128796,128940,130744,130794,130862,130926,130983,131336,131471,131532,131596,131652,131704,131997,132061,132121,132177,132247,132313,132373,132429,133264,148853,148927,148991,149858,149920,149980,150032,150084,150140,151107,151172,151233,151356,151427,151475,151543,151607"
                     }
                 },
                 {
@@ -97,20 +129,58 @@
                     }
                 },
                 {
-                    "source": "D:\\lochv\\android_repo\\BioMini_SDK_for_Android_V2.0.1_r2356_02_SQ53,SQ81 (1)\\BioMini_SDK_for_Android_V2.0.1_r2356\\sample\\biominisample\\src\\main\\res\\values\\colors.xml",
+                    "source": "C:\\Users\\hvllo\\.gradle\\caches\\transforms-4\\e5f5f7b3716150b1a2e8c0f4161fc66b\\transformed\\jetified-appcompat-resources-1.6.1\\res\\values\\values.xml",
                     "from": {
-                        "startLines": "4,2,3,10,8,6,5,7,9",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "157,57,105,480,371,259,204,314,428",
-                        "endColumns": "45,46,50,55,55,53,53,55,50",
-                        "endOffsets": "198,99,151,531,422,308,253,365,474"
+                        "startLines": "2,18,24,34,50",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,480,658,942,1353",
+                        "endLines": "17,23,33,49,53",
+                        "endColumns": "24,24,24,24,24",
+                        "endOffsets": "475,653,937,1348,1475"
                     },
                     "to": {
-                        "startLines": "580,581,582,583,584,585,586,587,588",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "30354,30400,30447,30498,30554,30610,30664,30718,30774",
-                        "endColumns": "45,46,50,55,55,53,53,55,50",
-                        "endOffsets": "30395,30442,30493,30549,30605,30659,30713,30769,30820"
+                        "startLines": "9353,9369,9375,11963,11979",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "646399,646824,647002,759120,759531",
+                        "endLines": "9368,9374,9384,11978,11982",
+                        "endColumns": "24,24,24,24,24",
+                        "endOffsets": "646819,646997,647281,759526,759653"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\hvllo\\.gradle\\caches\\transforms-4\\3ff448da6b076f3d15a8e9ba375656c6\\transformed\\jetified-viewpager2-1.1.0-beta02\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "24",
+                        "endOffsets": "160"
+                    },
+                    "to": {
+                        "startLines": "12589",
+                        "startColumns": "4",
+                        "startOffsets": "784411",
+                        "endLines": "12591",
+                        "endColumns": "24",
+                        "endOffsets": "784516"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\hvllo\\.gradle\\caches\\transforms-4\\a6119651c1b2aa6b0d180007a5deb225\\transformed\\jetified-customview-poolingcontainer-1.0.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,109",
+                        "endColumns": "53,66",
+                        "endOffsets": "104,171"
+                    },
+                    "to": {
+                        "startLines": "1752,1773",
+                        "startColumns": "4,4",
+                        "startOffsets": "118273,119421",
+                        "endColumns": "53,66",
+                        "endOffsets": "118322,119483"
                     }
                 },
                 {
@@ -128,23 +198,6 @@
                         "startOffsets": "118152,118192,119378,119669,119724,121220,121265,121319,121375,121427,121479,121528,121589",
                         "endColumns": "39,46,42,54,46,44,53,55,51,51,48,60,49",
                         "endOffsets": "118187,118234,119416,119719,119766,121260,121314,121370,121422,121474,121523,121584,121634"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\hvllo\\.gradle\\caches\\transforms-4\\eac37a4327d955cd5f366548813a0a2b\\transformed\\savedstate-1.2.1\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "53",
-                        "endOffsets": "104"
-                    },
-                    "to": {
-                        "startLines": "1820",
-                        "startColumns": "4",
-                        "startOffsets": "121822",
-                        "endColumns": "53",
-                        "endOffsets": "121871"
                     }
                 },
                 {
@@ -186,24 +239,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\hvllo\\.gradle\\caches\\transforms-4\\38eaba01585e0610de6a27b612a25745\\transformed\\activity-1.8.0\\res\\values\\values.xml",
+                    "source": "D:\\lochv\\Android project\\BioMini_SDK\\biominisample\\src\\main\\res\\values\\colors.xml",
                     "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,97",
-                        "endColumns": "41,59",
-                        "endOffsets": "92,152"
+                        "startLines": "4,2,3,10,8,6,5,7,9",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "157,57,105,480,371,259,204,314,428",
+                        "endColumns": "45,46,50,55,55,53,53,55,50",
+                        "endOffsets": "198,99,151,531,422,308,253,365,474"
                     },
                     "to": {
-                        "startLines": "1776,1819",
-                        "startColumns": "4,4",
-                        "startOffsets": "119584,121762",
-                        "endColumns": "41,59",
-                        "endOffsets": "119621,121817"
+                        "startLines": "580,581,582,583,584,585,586,587,588",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "30354,30400,30447,30498,30554,30610,30664,30718,30774",
+                        "endColumns": "45,46,50,55,55,53,53,55,50",
+                        "endOffsets": "30395,30442,30493,30549,30605,30659,30713,30769,30820"
                     }
                 },
                 {
-                    "source": "D:\\lochv\\android_repo\\BioMini_SDK_for_Android_V2.0.1_r2356_02_SQ53,SQ81 (1)\\BioMini_SDK_for_Android_V2.0.1_r2356\\sample\\biominisample\\src\\main\\res\\values\\styles.xml",
+                    "source": "D:\\lochv\\Android project\\BioMini_SDK\\biominisample\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3,13,9,14",
                         "startColumns": "4,4,4,4",
@@ -222,37 +275,22 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\hvllo\\.gradle\\caches\\transforms-4\\0ffd2e3afb609bafb94d9dba298526a9\\transformed\\customview-poolingcontainer-1.0.0\\res\\values\\values.xml",
+                    "source": "D:\\lochv\\Android project\\BioMini_SDK\\biominisample\\src\\main\\res\\values\\array.xml",
                     "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,109",
-                        "endColumns": "53,66",
-                        "endOffsets": "104,171"
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "17",
+                        "endOffsets": "180"
                     },
                     "to": {
-                        "startLines": "1752,1773",
-                        "startColumns": "4,4",
-                        "startOffsets": "118273,119421",
-                        "endColumns": "53,66",
-                        "endOffsets": "118322,119483"
-                    }
-                },
-                {
-                    "source": "D:\\lochv\\android_repo\\BioMini_SDK_for_Android_V2.0.1_r2356_02_SQ53,SQ81 (1)\\BioMini_SDK_for_Android_V2.0.1_r2356\\sample\\biominisample\\src\\main\\res\\values\\drawables.xml",
-                    "from": {
-                        "startLines": "1,2,4,6,5,3",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "76,165,351,527,440,256",
-                        "endColumns": "87,89,87,83,85,93",
-                        "endOffsets": "159,250,434,606,521,345"
-                    },
-                    "to": {
-                        "startLines": "1701,1702,1703,1704,1705,1706",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "114960,115048,115138,115226,115310,115396",
-                        "endColumns": "87,89,87,83,85,93",
-                        "endOffsets": "115043,115133,115221,115305,115391,115485"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "150",
+                        "endLines": "6",
+                        "endColumns": "17",
+                        "endOffsets": "271"
                     }
                 },
                 {
@@ -292,20 +330,20 @@
                     }
                 },
                 {
-                    "source": "D:\\lochv\\android_repo\\BioMini_SDK_for_Android_V2.0.1_r2356_02_SQ53,SQ81 (1)\\BioMini_SDK_for_Android_V2.0.1_r2356\\sample\\biominisample\\src\\main\\res\\values\\strings.xml",
+                    "source": "D:\\lochv\\Android project\\BioMini_SDK\\biominisample\\src\\main\\res\\values\\drawables.xml",
                     "from": {
-                        "startLines": "11,6,1,20,19,23,22,9,8,35,57,58,29,28,49,48,40,39,46,45,43,42,13,4,3,37,52,51,17,14,15,16,10,26,25,32,33,31,55,54",
-                        "startColumns": "2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2",
-                        "startOffsets": "454,233,15,843,794,961,898,341,287,1434,2315,2375,1207,1156,1987,1924,1611,1556,1853,1788,1727,1672,511,156,83,1491,2117,2056,733,576,627,678,397,1090,1030,1311,1362,1264,2246,2183",
-                        "endColumns": "53,50,64,51,47,65,61,54,52,53,58,61,53,49,65,61,57,53,67,63,57,53,63,73,71,61,62,59,57,49,49,53,55,62,58,49,68,45,65,61",
-                        "endOffsets": "505,281,77,892,839,1024,957,393,337,1485,2371,2434,1258,1203,2050,1983,1666,1607,1918,1849,1782,1723,572,227,152,1550,2177,2113,788,623,674,729,450,1150,1086,1358,1428,1307,2309,2242"
+                        "startLines": "1,2,4,6,5,3",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "76,165,351,527,440,256",
+                        "endColumns": "87,89,87,83,85,93",
+                        "endOffsets": "159,250,434,606,521,345"
                     },
                     "to": {
-                        "startLines": "1922,1923,1925,1940,1941,1942,1943,1944,1948,1950,1951,1952,1953,1954,1959,1960,1961,1962,1963,1964,1965,1966,1973,2080,2081,2082,2088,2089,2090,2091,2092,2093,2102,2103,2104,2106,2107,2108,2109,2110",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "128692,128748,128884,130695,130749,130799,130867,130931,131286,131420,131476,131537,131601,131657,131934,132002,132066,132126,132182,132252,132318,132378,133203,148782,148858,148932,149798,149863,149925,149985,150037,150089,151054,151112,151177,151309,151361,151432,151480,151548",
-                        "endColumns": "55,52,60,53,49,67,63,56,54,55,60,63,55,51,67,63,59,55,69,65,59,55,65,75,73,63,64,61,59,51,51,55,57,64,60,51,70,47,67,63",
-                        "endOffsets": "128743,128796,128940,130744,130794,130862,130926,130983,131336,131471,131532,131596,131652,131704,131997,132061,132121,132177,132247,132313,132373,132429,133264,148853,148927,148991,149858,149920,149980,150032,150084,150140,151107,151172,151233,151356,151427,151475,151543,151607"
+                        "startLines": "1701,1702,1703,1704,1705,1706",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "114960,115048,115138,115226,115310,115396",
+                        "endColumns": "87,89,87,83,85,93",
+                        "endOffsets": "115043,115133,115221,115305,115391,115485"
                     }
                 },
                 {
@@ -328,25 +366,6 @@
                     }
                 },
                 {
-                    "source": "D:\\lochv\\android_repo\\BioMini_SDK_for_Android_V2.0.1_r2356_02_SQ53,SQ81 (1)\\BioMini_SDK_for_Android_V2.0.1_r2356\\sample\\biominisample\\src\\main\\res\\values\\array.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "2",
-                        "startOffsets": "55",
-                        "endLines": "6",
-                        "endColumns": "17",
-                        "endOffsets": "180"
-                    },
-                    "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "150",
-                        "endLines": "6",
-                        "endColumns": "17",
-                        "endOffsets": "271"
-                    }
-                },
-                {
                     "source": "C:\\Users\\hvllo\\.gradle\\caches\\transforms-4\\309f752667ca9b0f41b7d753b385b323\\transformed\\fragment-1.3.6\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,10",
@@ -363,23 +382,6 @@
                         "endLines": "1748,1783,1822,10862,10866",
                         "endColumns": "56,64,63,24,24",
                         "endOffsets": "118147,119963,121985,712606,712755"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\hvllo\\.gradle\\caches\\transforms-4\\8a8409af0176208290f4d134305546b9\\transformed\\startup-runtime-1.1.1\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "82",
-                        "endOffsets": "133"
-                    },
-                    "to": {
-                        "startLines": "1924",
-                        "startColumns": "4",
-                        "startOffsets": "128801",
-                        "endColumns": "82",
-                        "endOffsets": "128879"
                     }
                 },
                 {
@@ -402,7 +404,24 @@
                     }
                 },
                 {
-                    "source": "D:\\lochv\\android_repo\\BioMini_SDK_for_Android_V2.0.1_r2356_02_SQ53,SQ81 (1)\\BioMini_SDK_for_Android_V2.0.1_r2356\\sample\\biominisample\\src\\main\\res\\values\\dimens.xml",
+                    "source": "C:\\Users\\hvllo\\.gradle\\caches\\transforms-4\\45427e03dc45e03c1ddd67cd10d187f0\\transformed\\jetified-savedstate-1.2.1\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "53",
+                        "endOffsets": "104"
+                    },
+                    "to": {
+                        "startLines": "1820",
+                        "startColumns": "4",
+                        "startOffsets": "121822",
+                        "endColumns": "53",
+                        "endOffsets": "121871"
+                    }
+                },
+                {
+                    "source": "D:\\lochv\\Android project\\BioMini_SDK\\biominisample\\src\\main\\res\\values\\dimens.xml",
                     "from": {
                         "startLines": "5,6,7,3,2",
                         "startColumns": "4,4,4,4,4",
@@ -416,25 +435,6 @@
                         "startOffsets": "58887,58945,63104,113420,113470",
                         "endColumns": "57,55,41,49,58",
                         "endOffsets": "58940,58996,63141,113465,113524"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\hvllo\\.gradle\\caches\\transforms-4\\4f8222486f8df9230e0003bbe0cacc44\\transformed\\viewpager2-1.1.0-beta02\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "4",
-                        "endColumns": "24",
-                        "endOffsets": "160"
-                    },
-                    "to": {
-                        "startLines": "12589",
-                        "startColumns": "4",
-                        "startOffsets": "784411",
-                        "endLines": "12591",
-                        "endColumns": "24",
-                        "endOffsets": "784516"
                     }
                 }
             ]

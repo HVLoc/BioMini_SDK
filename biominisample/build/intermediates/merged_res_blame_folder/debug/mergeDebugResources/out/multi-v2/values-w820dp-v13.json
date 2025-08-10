@@ -4,7 +4,7 @@
             "outputFile": "com.suprema.biominisample-mergeDebugResources-30:/values-w820dp-v13/values-w820dp-v13.xml",
             "map": [
                 {
-                    "source": "D:\\lochv\\android_repo\\BioMini_SDK_for_Android_V2.0.1_r2356_02_SQ53,SQ81 (1)\\BioMini_SDK_for_Android_V2.0.1_r2356\\sample\\biominisample\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "source": "D:\\lochv\\Android project\\BioMini_SDK\\biominisample\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",
