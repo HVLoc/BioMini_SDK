@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.suprema.biominisample-mergeDebugResources-30:/values-w820dp-v13/values-w820dp-v13.xml",
+            "outputFile": "vn.lochv.biominisample-mergeDebugResources-30:/values-w820dp-v13/values-w820dp-v13.xml",
             "map": [
                 {
                     "source": "D:\\lochv\\Android project\\BioMini_SDK\\biominisample\\src\\main\\res\\values-w820dp\\dimens.xml",

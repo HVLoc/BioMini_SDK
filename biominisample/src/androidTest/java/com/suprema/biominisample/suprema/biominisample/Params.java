@@ -1,6 +1,6 @@
-package com.suprema.biominisample.suprema.biominisample;
+package vn.lochv.biominisample.suprema.biominisample;
 
-import static com.suprema.biominisample.suprema.biominisample.Utility.appendLog;
+import static vn.lochv.biominisample.suprema.biominisample.Utility.appendLog;
 
 /**
  * Created by ihkim_win10_x64 on 2017-08-31.

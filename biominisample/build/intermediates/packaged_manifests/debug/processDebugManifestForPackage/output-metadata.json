@@ -4,7 +4,7 @@
     "type": "PACKAGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.suprema.biominisample",
+  "applicationId": "vn.lochv.biominisample",
   "variantName": "debug",
   "elements": [
     {

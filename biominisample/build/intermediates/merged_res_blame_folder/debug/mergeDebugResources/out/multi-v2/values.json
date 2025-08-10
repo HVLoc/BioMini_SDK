@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.suprema.biominisample-mergeDebugResources-30:/values/values.xml",
+            "outputFile": "vn.lochv.biominisample-mergeDebugResources-30:/values/values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\hvllo\\.gradle\\caches\\transforms-4\\6a1c042ed089aa61001c92951e802083\\transformed\\constraintlayout-2.0.1\\res\\values\\values.xml",

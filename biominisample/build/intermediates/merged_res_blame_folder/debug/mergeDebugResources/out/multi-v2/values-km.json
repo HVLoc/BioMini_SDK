@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.suprema.biominisample-mergeDebugResources-30:/values-km/values-km.xml",
+            "outputFile": "vn.lochv.biominisample-mergeDebugResources-30:/values-km/values-km.xml",
             "map": [
                 {
                     "source": "C:\\Users\\hvllo\\.gradle\\caches\\transforms-4\\636e6159aaa74726d10231956aec2c64\\transformed\\core-1.13.0\\res\\values-km\\values-km.xml",

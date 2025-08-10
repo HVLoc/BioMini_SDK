@@ -1,4 +1,4 @@
-package com.suprema.biominisample;
+package vn.lochv.biominisample;
 
 import android.app.PendingIntent;
 import android.content.BroadcastReceiver;

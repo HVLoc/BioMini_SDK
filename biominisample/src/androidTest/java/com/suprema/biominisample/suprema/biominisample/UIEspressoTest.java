@@ -1,4 +1,4 @@
-//package com.suprema.biominisample.suprema.biominisample;
+//package vn.lochv.biominisample.suprema.biominisample;
 //
 //import static android.support.test.espresso.Espresso.closeSoftKeyboard;
 //import static android.support.test.espresso.Espresso.onData;
@@ -13,8 +13,8 @@
 //import static android.support.test.espresso.assertion.ViewAssertions.matches;
 //import static android.support.test.espresso.matcher.ViewMatchers.withId;
 //import static android.support.test.espresso.matcher.ViewMatchers.withText;
-//import static com.suprema.biominisample.suprema.biominisample.Utility.appendLog;
-//import static com.suprema.biominisample.suprema.biominisample.Utility.setProgress;
+//import static vn.lochv.biominisample.suprema.biominisample.Utility.appendLog;
+//import static vn.lochv.biominisample.suprema.biominisample.Utility.setProgress;
 //import static org.hamcrest.Matchers.allOf;
 //import static org.hamcrest.Matchers.instanceOf;
 //import static org.hamcrest.Matchers.is;
@@ -27,8 +27,8 @@
 //import android.widget.SeekBar;
 //
 //import com.suprema.BioMiniFactory;
-//import com.suprema.biominisample.MainActivity;
-//import com.suprema.biominisample.R;
+//import vn.lochv.biominisample.MainActivity;
+//import vn.lochv.biominisample.R;
 //
 //import org.junit.Before;
 //import org.junit.Rule;

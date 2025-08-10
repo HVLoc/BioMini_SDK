@@ -5,9 +5,9 @@ android {
     }
     compileSdk 35
 //    buildToolsVersion "25.0.0"
-    namespace = "com.suprema.biominisample"
+    namespace = "vn.lochv.biominisample"
     defaultConfig {
-        applicationId "com.suprema.biominisample"
+        applicationId "vn.lochv.biominisample"
         minSdkVersion 21
         targetSdkVersion 35
         versionCode 1

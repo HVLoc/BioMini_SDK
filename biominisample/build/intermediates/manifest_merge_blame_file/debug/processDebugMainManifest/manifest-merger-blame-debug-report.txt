@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.suprema.biominisample"
+3    package="vn.lochv.biominisample"
 4    android:versionCode="1"
 5    android:versionName="1.0" >
 6
@@ -17,12 +17,12 @@
 13
 14    <permission
 14-->[androidx.core:core:1.13.0] C:\Users\hvllo\.gradle\caches\transforms-4\636e6159aaa74726d10231956aec2c64\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
-15        android:name="com.suprema.biominisample.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+15        android:name="vn.lochv.biominisample.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
 15-->[androidx.core:core:1.13.0] C:\Users\hvllo\.gradle\caches\transforms-4\636e6159aaa74726d10231956aec2c64\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
 16        android:protectionLevel="signature" />
 16-->[androidx.core:core:1.13.0] C:\Users\hvllo\.gradle\caches\transforms-4\636e6159aaa74726d10231956aec2c64\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
 17
-18    <uses-permission android:name="com.suprema.biominisample.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+18    <uses-permission android:name="vn.lochv.biominisample.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
 18-->[androidx.core:core:1.13.0] C:\Users\hvllo\.gradle\caches\transforms-4\636e6159aaa74726d10231956aec2c64\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
 18-->[androidx.core:core:1.13.0] C:\Users\hvllo\.gradle\caches\transforms-4\636e6159aaa74726d10231956aec2c64\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
 19
@@ -45,7 +45,7 @@
 29-->D:\lochv\Android project\BioMini_SDK\biominisample\src\main\AndroidManifest.xml:6:69-100
 30        <activity
 30-->D:\lochv\Android project\BioMini_SDK\biominisample\src\main\AndroidManifest.xml:7:9-16:20
-31            android:name="com.suprema.biominisample.MainActivity"
+31            android:name="vn.lochv.biominisample.MainActivity"
 31-->D:\lochv\Android project\BioMini_SDK\biominisample\src\main\AndroidManifest.xml:7:19-47
 32            android:exported="true"
 32-->D:\lochv\Android project\BioMini_SDK\biominisample\src\main\AndroidManifest.xml:8:13-36
@@ -79,7 +79,7 @@
 47-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hvllo\.gradle\caches\transforms-4\ba68d68e77fc5265138dda0701cd74b2\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
 48            android:name="androidx.startup.InitializationProvider"
 48-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hvllo\.gradle\caches\transforms-4\ba68d68e77fc5265138dda0701cd74b2\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
-49            android:authorities="com.suprema.biominisample.androidx-startup"
+49            android:authorities="vn.lochv.biominisample.androidx-startup"
 49-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hvllo\.gradle\caches\transforms-4\ba68d68e77fc5265138dda0701cd74b2\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
 50            android:exported="false" >
 50-->[androidx.emoji2:emoji2:1.2.0] C:\Users\hvllo\.gradle\caches\transforms-4\ba68d68e77fc5265138dda0701cd74b2\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37

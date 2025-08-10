@@ -1,10 +1,10 @@
-package com.suprema.biominisample.suprema.biominisample;
+package vn.lochv.biominisample.suprema.biominisample;
 
 import static android.support.test.espresso.Espresso.onView;
 import static android.support.test.espresso.assertion.ViewAssertions.matches;
 import static android.support.test.espresso.matcher.ViewMatchers.withId;
 import static android.support.test.espresso.matcher.ViewMatchers.withText;
-import static com.suprema.biominisample.suprema.biominisample.Utility.appendLog;
+import static vn.lochv.biominisample.suprema.biominisample.Utility.appendLog;
 import static org.hamcrest.core.StringContains.containsString;
 
 import android.content.res.Resources;
@@ -23,7 +23,7 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.SeekBar;
 
-import com.suprema.biominisample.R;
+import vn.lochv.biominisample.R;
 
 import org.hamcrest.Description;
 import org.hamcrest.Matcher;

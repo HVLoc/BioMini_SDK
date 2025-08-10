@@ -48,7 +48,7 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\hvllo\.gradle\caches\transform
 MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\hvllo\.gradle\caches\transforms-4\6d4d418b0c5393c94f91da078a6b0c72\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\hvllo\.gradle\caches\transforms-4\af1edcb4b0c81283b372fff5687c3ce3\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
 	package
-		ADDED from D:\lochv\Android project\BioMini_SDK\biominisample\src\main\AndroidManifest.xml:3:5-40
+		ADDED from D:\lochv\Android project\BioMini_SDK\biominisample\src\main\AndroidManifest.xml:3:5-37
 		INJECTED from D:\lochv\Android project\BioMini_SDK\biominisample\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\lochv\Android project\BioMini_SDK\biominisample\src\main\AndroidManifest.xml
@@ -89,7 +89,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\hv
 		ADDED from D:\lochv\Android project\BioMini_SDK\biominisample\src\main\AndroidManifest.xml:5:18-44
 	android:theme
 		ADDED from D:\lochv\Android project\BioMini_SDK\biominisample\src\main\AndroidManifest.xml:6:69-100
-activity#com.suprema.biominisample.MainActivity
+activity#vn.lochv.biominisample.MainActivity
 ADDED from D:\lochv\Android project\BioMini_SDK\biominisample\src\main\AndroidManifest.xml:7:9-16:20
 	android:label
 		ADDED from D:\lochv\Android project\BioMini_SDK\biominisample\src\main\AndroidManifest.xml:9:13-45
@@ -249,7 +249,7 @@ ADDED from [androidx.core:core:1.13.0] C:\Users\hvllo\.gradle\caches\transforms-
 		ADDED from [androidx.core:core:1.13.0] C:\Users\hvllo\.gradle\caches\transforms-4\636e6159aaa74726d10231956aec2c64\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
 	android:name
 		ADDED from [androidx.core:core:1.13.0] C:\Users\hvllo\.gradle\caches\transforms-4\636e6159aaa74726d10231956aec2c64\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
-permission#com.suprema.biominisample.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+permission#vn.lochv.biominisample.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.13.0] C:\Users\hvllo\.gradle\caches\transforms-4\636e6159aaa74726d10231956aec2c64\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
 		ADDED from [androidx.core:core:1.13.0] C:\Users\hvllo\.gradle\caches\transforms-4\636e6159aaa74726d10231956aec2c64\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
@@ -259,7 +259,7 @@ uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.13.0] C:\Users\hvllo\.gradle\caches\transforms-4\636e6159aaa74726d10231956aec2c64\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
 	android:name
 		ADDED from [androidx.core:core:1.13.0] C:\Users\hvllo\.gradle\caches\transforms-4\636e6159aaa74726d10231956aec2c64\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
-uses-permission#com.suprema.biominisample.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+uses-permission#vn.lochv.biominisample.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.13.0] C:\Users\hvllo\.gradle\caches\transforms-4\636e6159aaa74726d10231956aec2c64\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
 	android:name
 		ADDED from [androidx.core:core:1.13.0] C:\Users\hvllo\.gradle\caches\transforms-4\636e6159aaa74726d10231956aec2c64\transformed\core-1.13.0\AndroidManifest.xml:26:22-94

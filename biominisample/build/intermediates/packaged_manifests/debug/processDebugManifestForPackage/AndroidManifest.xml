@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.suprema.biominisample"
+    package="vn.lochv.biominisample"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -12,10 +12,10 @@
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <permission
-        android:name="com.suprema.biominisample.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:name="vn.lochv.biominisample.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.suprema.biominisample.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+    <uses-permission android:name="vn.lochv.biominisample.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
 
     <application
         android:allowBackup="true"
@@ -28,7 +28,7 @@
         android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.suprema.biominisample.MainActivity"
+            android:name="vn.lochv.biominisample.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar" >
@@ -46,7 +46,7 @@
 
         <provider
             android:name="androidx.startup.InitializationProvider"
-            android:authorities="com.suprema.biominisample.androidx-startup"
+            android:authorities="vn.lochv.biominisample.androidx-startup"
             android:exported="false" >
             <meta-data
                 android:name="androidx.emoji2.text.EmojiCompatInitializer"
