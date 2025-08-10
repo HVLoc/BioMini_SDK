@@ -1,0 +1,4 @@
+vn.lochv.biominisample.test.biominisample-androidTest-0 D:\lochv\Android project\BioMini_SDK\biominisample\build\generated\res\resValues\androidTest\debug
+vn.lochv.biominisample.test.biominisample-mergeDebugAndroidTestResources-1 D:\lochv\Android project\BioMini_SDK\biominisample\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+vn.lochv.biominisample.test.biominisample-mergeDebugAndroidTestResources-2 D:\lochv\Android project\BioMini_SDK\biominisample\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+vn.lochv.biominisample.test.biominisample-debugAndroidTest-3 D:\lochv\Android project\BioMini_SDK\biominisample\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
